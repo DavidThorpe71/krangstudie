@@ -1,9 +1,5 @@
 $(function() {
-	// $('.row').on('click', function() {
-	// 	$(".selected").removeClass('selected');
-	// 	$(this).addClass('selected');
-	// });
-
+	
 	$('.brain').on('click', function () {
 		$('#page').removeClass();
 		$('#page').addClass('brainb');

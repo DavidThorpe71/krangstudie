@@ -32,3 +32,16 @@ h2 {
 .neurob {
 	background: rgb(241, 177, 116);
 }
+
+.kpics {
+	display: flex;
+	flex-wrap: wrap;
+	/*align-items: center;*/
+	justify-content: center;
+
+}
+
+.pics img {
+	vertical-align: top;
+}
+
