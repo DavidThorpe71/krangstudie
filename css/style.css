@@ -24,26 +24,6 @@ a {
 	text-decoration: none;
 }
 
-body {
-	background: rgb(216, 146, 170);
-}
-
-/*.torsob {
-	background: rgb(209, 148, 145);
-}
-
-.clothingb {
-	background: rgb(133, 30, 47);
-}
-
-.armorb {
-	background: rgb(140, 124, 153);
-}
-
-.neurob {
-	background: rgb(241, 177, 116);
-}*/
-
 .kpics {
 	display: flex;
 	flex-wrap: wrap;
